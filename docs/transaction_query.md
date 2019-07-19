@@ -1,26 +1,12 @@
-# 环境
+###交易查询
 
-例子运行Mac OSX ，Python 2.7.x
+点击【3.查询】，进入“请输入商家订单号”页面, 如图：
 
-Linux ubuntu 18.04, Python 3.x
+![image](./images/6.jpg)
 
-同时我会把代码放在 https://github.com/asmcos/cpython  目录：/examples
+1.在此页面输入已支付成功的订单号，设备页面提示“支付成功”；
 
-## hello.py
+2.在此页面输入已成功退款的订单号，设备页面提示“退款成功”；
 
-来开始一个打印吧。
-
-```
-#coding:utf-8
-#这样就可以写中文注释了
-
-print("Hello，World!")
-```
-
-### 运行结果
-
-```
-jeapedudeAir-3:cpython jeapedu$ python examples/hello.py 
-Hello，World!
-```
+3.在此页面输入已未支付的订单号，设备页面提示“找不到交易”；
 

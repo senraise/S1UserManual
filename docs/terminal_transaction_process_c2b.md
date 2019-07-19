@@ -1,26 +1,23 @@
-# 环境
+###终端交易流程（C扫B）
 
-例子运行Mac OSX ，Python 2.7.x
 
-Linux ubuntu 18.04, Python 3.x
 
-同时我会把代码放在 https://github.com/asmcos/cpython  目录：/examples
+1.在主菜单页面选择【5.消费】；
 
-## hello.py
+2.、在【被扫支付】页面输入金额，并按【确认】按钮，即进入【支付渠道选择】页面；
 
-来开始一个打印吧。
+![image](./images/5.11.jpg)
 
-```
-#coding:utf-8
-#这样就可以写中文注释了
+   图 7-1 支付渠道选择页面
 
-print("Hello，World!")
-```
+3. 以”支付宝” 为例，在【支付渠道选择】界面选择【1.支付宝】， 进入“待支付”界面，如下图：
 
-### 运行结果
+![image](./images/5.22.jpg)
 
-```
-jeapedudeAir-3:cpython jeapedu$ python examples/hello.py 
-Hello，World!
-```
+   图 7-2 待支付界面
+
+顾客使用”支付宝”客户端”扫一扫”扫码界面，扫描上述”待支付”界面的二维码，由顾客”支付宝”客户端完成支付交易流程；
+
+
+
 
