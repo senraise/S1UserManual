@@ -7,9 +7,9 @@
 
 3.在【设置】界面可以选择【2.WIFI】， 进入WIFI列表显示界面，如下图：
 
-![image](./images/33.jpg)
+![image](./images/7.jpg)
 
-图 3-1 WIFI列表显示界面
+            图 3-1 WIFI列表显示界面
 
 用户可根据实际情况，使用![image](./images/3.11.jpg) 或![image](./images/3.22.jpg)选择将要连接的WIFI热点名称，
 按【确认】键进入【选取网络】界面，输入此WIFI热点的密码，若WIFI密码包含字母，则使用![image](./images/3.11.jpg)进行切换，
